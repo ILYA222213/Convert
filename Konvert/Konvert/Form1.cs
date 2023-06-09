@@ -58,6 +58,7 @@ namespace Konvert
         {
             string romanNumber = RomanTextBox.Text.ToUpper(); // переводим римскую цифру в верхний регистр
             int latinNumber = ConvertRomanToLatin(romanNumber); // конвертируем
+           
             if (latinNumber != -1) // проверяем, что конвертация прошла успешно
             {
                 textBox2.Text = latinNumber.ToString(); // выводим результат
