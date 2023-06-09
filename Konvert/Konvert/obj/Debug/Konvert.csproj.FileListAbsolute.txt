@@ -1,0 +1,11 @@
+C:\Users\ilruz\source\repos\Konvert\Konvert\bin\Debug\Konvert.exe.config
+C:\Users\ilruz\source\repos\Konvert\Konvert\bin\Debug\Konvert.exe
+C:\Users\ilruz\source\repos\Konvert\Konvert\bin\Debug\Konvert.pdb
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.Form1.resources
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.Properties.Resources.resources
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.csproj.GenerateResource.cache
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.exe
+C:\Users\ilruz\source\repos\Konvert\Konvert\obj\Debug\Konvert.pdb
